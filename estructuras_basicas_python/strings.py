@@ -6,3 +6,5 @@ for palabra in frase:
    frase_lista.append(buf)
 frase=' '.join(frase_lista)
 print frase
+
+x = "1 2 3 4 5"
